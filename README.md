@@ -26,3 +26,5 @@ Each project applies the concepts learned during Day 2:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Abdallah-Ali247/HTML4_day2.git
+   ```
+2. Open the HTML files in any web browser to view the projects.
